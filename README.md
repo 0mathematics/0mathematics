@@ -1,4 +1,4 @@
 ### Hi there 👋
-#### Go/Rust backend developer
+#### Rust backend developer
 
-https://0mechanic.github.io/
+https://start.matreshka8.ru/
